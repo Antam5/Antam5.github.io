@@ -1,6 +1,6 @@
 ---
 layout: page
-title: List of publications
+title: List of publications and talks
 permalink: /publications/
 ---
 
