@@ -16,6 +16,7 @@ Bohr Sommerfeld Expansions for a Class of Nonselfadjoint Operators 2025 *In prep
 [An example of Accurate Microlocal Tunneling 2025](https://github.com/Antam5/files/blob/main/Example%20of%20Microlocal%20Tunneling.pdf) with Nicolas Raymond, *To appear in Mathematical Research Letters*.
 
 ***List of Talks***
+
 Rennes, Séminaire d'analyse, Autumn 2023, *An example of accurate microlocal tunneling*
 
 Anger, Séminaire d'analyse, Winter 2023, *On the Darboux-Carathéodory normal form in the analytic setting*
