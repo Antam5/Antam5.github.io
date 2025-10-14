@@ -20,6 +20,6 @@ minima:
   skin: classic
 
   nav_pages:
-    - about.md
+    - publications.md
     
   show_excerpts: false
