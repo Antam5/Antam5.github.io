@@ -21,5 +21,6 @@ minima:
 
   nav_pages:
     - publications.md
+    - contact.md
     
   show_excerpts: false
