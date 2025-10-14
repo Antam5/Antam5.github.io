@@ -8,10 +8,10 @@ I defended my Ph.d. the 4th of december 2024 under the advising of San Vũ Ngọ
 
 *** Here is a list of publications ***
 
-Bohr Sommerfeld Expansions for a Class of Nonselfadjoint Operators 2025 *In preparation, with San Vũ Ngọc*
+Bohr Sommerfeld Expansions for a Class of Nonselfadjoint Operators 2025 *In preparation, with San Vũ Ngọc*.
 
 [Analytic Microlocal Bohr Sommerfeld Expansions 2024](https://github.com/Antam5/files/blob/main/Bohr%20Sommerfeld%20Analytic.pdf) 
-*Submitted to Journal of Spectral Theory*
+*Submitted to Journal of Spectral Theory*.
 
-[An example of Accurate Microlocal Tunneling 2025](https://github.com/Antam5/files/blob/main/Example%20of%20Microlocal%20Tunneling.pdf) with Nicolas Raymond, *To appear in Mathematical Research Letters*
+[An example of Accurate Microlocal Tunneling 2025](https://github.com/Antam5/files/blob/main/Example%20of%20Microlocal%20Tunneling.pdf) with Nicolas Raymond, *To appear in Mathematical Research Letters*.
 
