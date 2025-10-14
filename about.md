@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I defended my Ph.d. the 4th of december 2024 under the advising of San Vu Ngoc, Nicolas Raymond and Yannick Guedes-Bonthonneau. I spent a lot of time working on the contributions of Johannes Sjöstrand in analytic microlocal analysis. I have very much enjoyed the reading of Michael Hitrik's work recently. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+[Analytic Microlocal Bohr Sommerfeld Expansions](https://github.com/Antam5/files/blob/main/Bohr%20Sommerfeld%20Analytic.pdf)
