@@ -1,6 +1,6 @@
 ---
 layout: post
-date : 16/02/2026
+date : 2026-02-16
 ---
 In this article written with [Nicolas Raymond](https://nraymond.pages.math.cnrs.fr/webpage/) I consider pseudodifferentials operators acting on a domain of $L^2(\R)$ whose symbol is 
 
