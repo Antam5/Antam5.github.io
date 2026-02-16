@@ -2,7 +2,7 @@
 layout: post
 date : 2026-02-16
 ---
-In this article written with [Nicolas Raymond](https://nraymond.pages.math.cnrs.fr/webpage/) I consider pseudodifferentials operators acting on a domain of $L^2(\R)$ whose symbol is 
+In this article written with [Nicolas Raymond](https://nraymond.pages.math.cnrs.fr/webpage/) I consider pseudodifferentials operators acting on a domain of $L^2(\mathbb{R})$ whose symbol is 
 
 $$p(x,\xi) = a(\xi)+hb(x,\xi) $$
 
