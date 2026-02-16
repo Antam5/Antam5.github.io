@@ -1,10 +1,9 @@
 ---
 layout: post
-date : 2026-02-16
+date: 2026-02-16
 ---
 
-In this article written with [Nicolas Raymond](https://nraymond.pages.math.cnrs.fr/webpage/) I consider pseudodifferentials operators acting on a domain of $L^2(\mathbb{R})$ whose symbol is 
-
+In this [article](https://arxiv.org/abs/2407.03747) written with [Nicolas Raymond](https://nraymond.pages.math.cnrs.fr/webpage/) I consider pseudodifferentials operators acting on a domain of $L^2(\mathbb{R})$ whose symbol is 
 $$p(x,\xi) = a(\xi)+hb(x,\xi) $$
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
