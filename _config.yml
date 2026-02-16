@@ -22,5 +22,9 @@ minima:
   nav_pages:
     - publications.md
     - contact.md
+
+    markdown: kramdown
+    kramdown:
+     math_engine: mathjax
     
   show_excerpts: false
