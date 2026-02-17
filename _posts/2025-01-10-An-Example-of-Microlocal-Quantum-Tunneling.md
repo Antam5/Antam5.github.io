@@ -8,7 +8,7 @@ In this [article](https://arxiv.org/abs/2407.03747) written with [Nicolas Raymon
 $$p(x,\xi) = a(\xi)+hb(x,\xi), ~~ b(x,0) \hbox{ is a double well potential}. $$
 By **definition** we say that $V \in \mathscr{C}^{\infty}(\R)$ is a double well potential if and only if 
 
-$$ \left \{ \begin{array}{ll} V \hbox{ has two unique nondegenerate minima at } -x_\ell,x_\ell \hbox{ and } V(\pm x_\ell) = 0 \\ V(x) =V(-x) \hbox{ for all } x \in \R
+$$ \left\{ \begin{array}{ll} V \hbox{ has two unique nondegenerate minima at } -x_\ell,x_\ell \hbox{ and } V(\pm x_\ell) = 0 \\ V(x) =V(-x) \hbox{ for all } x \in \R
 \end{array} \right.
 $$
 
