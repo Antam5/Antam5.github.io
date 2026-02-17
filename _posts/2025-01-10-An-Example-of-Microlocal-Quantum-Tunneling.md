@@ -23,7 +23,7 @@ $$ \lambda_{2j-1}(h) \sim_{h \to 0^+} \lambda_{2j}(h) \sim (j-\tfrac{1}{2})\kapp
 
 In this article we prove that the splitting of the lowest eigenvalues satisfy
 
-$$\lambda_2(h)-\lambda_1(h) \sim Ae^{-S/h} \hbox{ where } S \int_{-x_\ell}^{x_\ell} \sqrt{V(s)}\mathrm{d}s. $$
+$$\lambda_2(h)-\lambda_1(h) \sim Ae^{-S/h} \hbox{ where } S = \int_{-x_\ell}^{x_\ell} \sqrt{V(s)}\mathrm{d}s. $$
 
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
