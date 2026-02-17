@@ -18,7 +18,8 @@ Under generic assumptions on the growth of the symbol (in order to guarantee con
 
 
 In particular the spectrum of $p^w$ near $0$ is composed of an ordered family of eigenvalues $\lambda_1(h), \lambda_2(h), \dots,\lambda_k(h)$ where 
-\[ |\lambda_{2j-1}(h) \sim_{h \to 0^+} \lambda_{2j}(h) \sim (j-\tfrac{1}{2})\kappa\hbar. \]
+
+$$ |\lambda_{2j-1}(h) \sim_{h \to 0^+} \lambda_{2j}(h) \sim (j-\tfrac{1}{2})\kappa\hbar.$$
 
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
