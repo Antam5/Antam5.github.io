@@ -7,7 +7,7 @@ In this [article](https://arxiv.org/abs/2407.03747) written with [Nicolas Raymon
 
 $$p(x,\xi) = a(\xi)+hb(x,\xi). $$
 
-Under generic assumptions on the growth of the symbol and holomorphy in a tubular neighbourhood of $\R^2$ (of the form $\Sigma = \R^2 + \{ 0 \} \times i[-\delta,\delta]$)
+Under generic assumptions on the growth of the symbol and holomorphy in a tubular neighbourhood of $\mathbb{R}^2$ (of the form $\Sigma = \mathbb{R}^2 + \{ 0 \} \times i[-\delta,\delta]$)
 
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
