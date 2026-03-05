@@ -7,7 +7,5 @@
 #
 layout: home
 ---
-<p align="center">
-  <img src="https://github.com/Antam5/Photos/blob/main/wind.png" width="300">
-</p>
+<img src="https://github.com/Antam5/Photos/blob/main/wind.png" width="300">
 
