@@ -8,6 +8,6 @@
 layout: home
 ---
 <p align="center">
-  <img src="https://github.com/Antam5/Photos/blob/main/wind.jpeg" width="100">
+  <img src="https://github.com/Antam5/Photos/blob/main/wind.jpeg" width="200">
 </p>
 
