@@ -7,7 +7,7 @@
 #
 layout: home
 ---
-<img src="assets/img/wind.png" width="200">
+<img src="assets/img/wind.jpeg" width="200">
 
 
 
